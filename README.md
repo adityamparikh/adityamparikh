@@ -18,7 +18,7 @@
 
 - **Languages:** Java, Kotlin  
 - **Frameworks & Tools:** Spring Boot, Maven, Gradle, Kafka, RabbitMQ, Testcontainers  
-- **Interests:** Scalable backend systems, code quality
+- **Interests:** Scalable backend systems, code quality, GenAI
 
 ---
 
